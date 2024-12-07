@@ -1,6 +1,8 @@
 # homework11
 **Bellybutton Biodiversity Dashboard**
 
+github pages URL: https://kbumadianne.github.io/homework11/
+
 This JavaScript application uses the D3.js and Plotly libraries to visualize data related to bacterial cultures found in belly button samples. It generates a dashboard that displays metadata and two interactive charts: a bar chart and a bubble chart.
 
 **Features**
